@@ -1,0 +1,26 @@
+/* First Corgi */
+.funny-glasses {
+    position: relative;
+    bottom: 105px;
+    left: 212px;
+}
+/* Second Corgi */
+.bandana {
+    position: relative;
+    bottom: 60px;
+    right: 125px;
+}
+/* Third Corgi */
+.pawprint {
+    position: fixed;
+    top: 45px;
+    left: 65px;
+}
+/* Fourth Corgi */
+.luna {
+    position: absolute;
+}
+/* Fifth Corgi */
+.top-hat {
+    z-index: 1;
+}
